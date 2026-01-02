@@ -15,7 +15,7 @@ A high-performance Git repository scanner that recursively finds Git repositorie
 ```bash
 npx gitski
 # Or install it globally
-npm install -g @toriality/gitski
+npm install -g gitski
 ```
 
 ## Usage
